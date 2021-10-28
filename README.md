@@ -1,5 +1,5 @@
 # Programa_cadastrar_nomes💾
- Programa para cadastrar nome dos pais.
+ Dart
  
 Programa pensado para colocar em prática meus conhecimentos em lógica de programação com dart.
 
